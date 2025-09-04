@@ -1,6 +1,3 @@
 # Spotify-Clone
 I was creating a Spotify clone that look like a soptify but not working because I recently learn HTML, CSS only that why I practice and build like this.
 I know this not more responsive but this my starting in World of WEB-DEV.....
-
-# teacher
-Mrinmoy Sarkar 
